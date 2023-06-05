@@ -14,7 +14,7 @@ function SlickCarousel() {
     slidesToScroll: 1,
     fade: true,
     autoplay: true,
-    autoplaySpeed: 1000,
+    autoplaySpeed: 2000,
     pauseOnHover: true,
   }
   return (
